@@ -1,0 +1,13 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": "remote-scope",
+        "name": "alert"
+      },
+      "isSymlink": false,
+      "hash": "f6e4ad53e9c05a007ff901b730f6fe5fcc5ec96a"
+    }
+  ],
+  "lanes": []
+}

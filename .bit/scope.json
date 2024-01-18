@@ -1,0 +1,12 @@
+{
+    "name": "free-react-tailwind-admin-dashboard-main-local-gx7r8c9x",
+    "remotes": {
+        "remote-scope": "http://localhost:3009"
+    },
+    "version": "1.0.618",
+    "lanes": {
+        "current": "main",
+        "tracking": [],
+        "new": []
+    }
+}

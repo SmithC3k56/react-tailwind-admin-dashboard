@@ -1,0 +1,16 @@
+[
+  {
+    "id": {
+      "scope": "my-scope",
+      "name": "alert",
+      "version": "1.0.0"
+    }
+  },
+  {
+    "id": {
+      "scope": "remote-scope",
+      "name": "alert",
+      "version": "1.0.5"
+    }
+  }
+]
